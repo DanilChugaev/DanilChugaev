@@ -18,7 +18,7 @@
 ### 🛠️ Основной стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,nuxt,pinia,vite,vitest,postcss,go,figma,git,github,docker,webstorm,vscode&perline=8" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,pinia,vite,vitest,nodejs,go,figma,git,docker,webstorm,vscode&perline=7" alt="Tech Stack">
 </p>
 
 **Любимые технологии:** Vue.js, TypeScript, PWA  
