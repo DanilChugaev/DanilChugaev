@@ -18,7 +18,7 @@
 ### 🛠️ Основной стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,nuxt,pinia,vite,tailwind,postcss,go,git,github,figma,docker&perline=8" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,nuxt,pinia,vite,vitest,postcss,go,figma,git,github,docker,webstorm,vscode&perline=8" alt="Tech Stack">
 </p>
 
 **Любимые технологии:** Vue.js, TypeScript, PWA  
@@ -28,10 +28,10 @@
 
 ### 📊 Статистика GitHub
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanilChugaev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilChugaev&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages">
-</div>
+</div>-->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanilChugaev&theme=tokyonight&hide_border=true" alt="Streak Stats">
