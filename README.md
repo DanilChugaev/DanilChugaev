@@ -48,8 +48,9 @@
 - **[voice-to-text-obsidian-plugin](https://github.com/DanilChugaev/voice-to-text-obsidian-plugin)** — Плагин для Obsidian: голос в текст
 
 **Другие крутые работы:**
+- **[labyrinth](https://github.com/DanilChugaev/labyrinth)** - Игра в лабиринт c процедурной генерацией уровней
 - **[ostrovok-hackathon-2025](https://github.com/DanilChugaev/ostrovok-hackathon-2025)** — Финалист хакатона (топ-10 из 221 команды)
-- **[DanilChugaev.github.io](https://github.com/DanilChugaev/DanilChugaev.github.io)** — Это портфолио на Vue 3 + Vite + PWA
+- **[DanilChugaev.github.io](https://github.com/DanilChugaev/DanilChugaev.github.io)** — Портфолио на Vue 3 + Vite + PWA
 
 Полный список проектов — в [моём портфолио](https://danilchugaev.github.io/)
 
