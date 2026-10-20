@@ -5,7 +5,7 @@
 
   <p>
     Создаю быстрые, удобные и современные веб-приложения.<br>
-    Сейчас углубляюсь в монорепозитории на Nx и активно использую локальные ИИ-модели.
+    Сейчас углубляюсь в монорепозитории на Nx, Turborepo и активно использую локальные ИИ-модели.
   </p>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-danilchugaev.github.io-blue?style=flat-square)](https://danilchugaev.github.io/)
@@ -22,7 +22,7 @@
 </p>
 
 **Любимые технологии:** Vue.js, TypeScript, PWA  
-**Сейчас изучаю:** Монорепозитории на Nx
+**Сейчас изучаю:** Монорепозитории на Nx и Turborepo
 
 ---
 
